@@ -15,7 +15,7 @@
    git commit -am "Initial commit."
    git push
    ```
-7. On Vercel.com, sign up or sign in.
+7. On Vercel.com, sign up or sign in using GitHub.
 8. Click **Add New...**
 9. Click **Project**
 10. Click **Import**
