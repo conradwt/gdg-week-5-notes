@@ -7,7 +7,7 @@
 3. In Copilot, enter "hello" to make sure that everything is working
 4. Create a website by using the following prompt:
    ```text
-   Using React, create a website that does **<insert your description here>** and deploy using Vercel.
+   Using React, create a website that performs <insert your description here>, then deploy it to Vercel.
    ```
 5. Push your GitHub repo by doing the following:
    ```zsh
