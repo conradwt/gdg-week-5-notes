@@ -5,7 +5,7 @@
 1. Create a GitHub repository with README.md file
 2. Open the repository in a GitHub Codespace
 3. In Copilot, enter "hello" to make sure that everything is working
-4. Create a website by using the following prompt:
+4. Create a website by using the following prompt in Copilot:
    ```text
    Using React, create a website that performs <insert your description here>, then deploy it to Vercel.
    ```
