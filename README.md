@@ -1,6 +1,6 @@
 # GDG Week 5 Notes
 
-## Tools Used
+## Tools
 
 - Copilot
 - GitHub.com
