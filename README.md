@@ -1,5 +1,12 @@
 # GDG Week 5 Notes
 
+## Tools Used
+
+- Copilot
+- GitHub.com
+- Vercel.com
+- VSCode
+
 ## Goals
 
 1. Create a GitHub repository with README.md file
