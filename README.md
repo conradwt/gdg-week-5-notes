@@ -5,7 +5,7 @@
 - Copilot
 - GitHub.com
 - Vercel.com
-- VSCode
+- VSCode via GitHub Codespaces
 
 ## Goals
 
